@@ -1,0 +1,19 @@
+@charset "UTF-8";
+h1{
+	font-family: Arial, sans serif;
+	font-size: 24pt;
+	background-color: blue;
+}
+
+subtitulo{
+	font-size: 18pt;
+	background-color: green;
+}
+
+button{
+	background-color: pink;
+}
+
+button:hover{
+	background-color:purple;
+}
